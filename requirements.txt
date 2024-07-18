@@ -1,0 +1,9 @@
+ipykernel
+langchain
+langchain-community
+langchainhub
+langchain-huggingface
+langgraph
+python-dotenv
+text-generation
+transformers
